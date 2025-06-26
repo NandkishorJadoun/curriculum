@@ -4,7 +4,7 @@ Forms are one of the most critical parts of your site. They are your user's gate
 
 You need to specify the proper types of inputs for each possible data item since there are often multiple ways to collect a piece of data, but only one way is easiest for your user.
 
-In this lesson, we will explore the basics of HTML forms and some of the different types of inputs available to you.
+In this lesson, we will explore the basics of HTML forms and some of the different types of inputs.
 
 ### Lesson overview
 
